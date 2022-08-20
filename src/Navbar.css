@@ -18,9 +18,16 @@
 }
 .navavatar {
   position: fixed;
-  right: 20px;
-  width: 30px;
-  object-fit: contain;
+  right: 30px;
+  top: 1px;
+  background: red;
+  padding: 5px 10px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 5px;
+  text-align: center;
+  height: auto;
 }
 .nav_black {
   background: #111;
